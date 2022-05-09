@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ShinyDhar
-- 👀 I’m interested in being a Data Science Guru one day
 - 🌱 I’m currently learning NLP and Data Engineering using GCP.
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me shiny.work2017@gmail.com
