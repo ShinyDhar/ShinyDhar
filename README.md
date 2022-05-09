@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning NLP and Data Engineering using GCP.
 - 💞️ I’m looking to collaborate on data for social good kinda projects.
 - 📫 How to reach me shiny.work2017@gmail.com
-- Work in Progress
+- Profile is a Work in Progress
 
 <!---
 ShinyDhar/ShinyDhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
