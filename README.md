@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Shiny!
-- 🌱 I’m currently learning NLP and Data Engineering using GCP. My strengths are to improve processes via Google Automation and improving business via data analysis and building data models to predict outcomes for better operations management.
-- 💞️ I’m looking to collaborate on data for social good kinda projects.
-- 📫 How to reach me shiny.work2017@gmail.com
-- Profile is a Work in Progress including my portfolio. 
+- 🌱 I’m a seasoned Data Analyst transitioning to a Data Strategist role. I am responsible for building data models to predict outcomes for better management.
+- My other strengths include process improvement and optimsation (use common sense and data science here or via automation), A/B testing and creating narratives with data.
+- 💞️ I’m looking to collaborate on data for social good projects.
+- 📫 How to reach me : Drop me an email 
 
 <!---
 ShinyDhar/ShinyDhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
